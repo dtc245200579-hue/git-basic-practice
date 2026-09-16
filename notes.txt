@@ -1,0 +1,2 @@
+Đây là file ghi chú của bài thực hành Git.
+Đã hoàn thành các commit đầu tiên.
